@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BMI_Calculator/static/css/main.d346a2f3.css",
+    "main.js": "/BMI_Calculator/static/js/main.7cbdc3d1.js",
+    "static/media/skinny.gif": "/BMI_Calculator/static/media/skinny.25a478394a05740995ae.gif",
+    "static/media/obesity.gif": "/BMI_Calculator/static/media/obesity.631f99ae039268707c35.gif",
+    "static/media/fat.gif": "/BMI_Calculator/static/media/fat.2b41808fa253387bc5d3.gif",
+    "static/media/fit.gif": "/BMI_Calculator/static/media/fit.28500f87d95bebfad318.gif",
+    "static/media/initial.gif": "/BMI_Calculator/static/media/initial.729951a49fffd92e33d0.gif",
+    "index.html": "/BMI_Calculator/index.html",
+    "main.d346a2f3.css.map": "/BMI_Calculator/static/css/main.d346a2f3.css.map",
+    "main.7cbdc3d1.js.map": "/BMI_Calculator/static/js/main.7cbdc3d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d346a2f3.css",
+    "static/js/main.7cbdc3d1.js"
+  ]
+}
